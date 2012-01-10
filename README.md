@@ -2,7 +2,7 @@
 
 _Twenty Thousand Leagues under the Sea_ is a classic science fiction novel by French writer Jules Verne published in 1870. It tells the story of [Captain Nemo] (http://en.wikipedia.org/wiki/Captain_Nemo) and his Submarine Nautilis as seen from the perspective of Professor Pierre Aronnax.
 
-![Alt text](http://en.wikipedia.org/wiki/File:20000_title_0a.jpg)
+(http://upload.wikimedia.org/wikipedia/commons/4/4e/20000_title_0a.jpg)
 
 -[Wikipedia Entry] (http://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea)
 
@@ -19,7 +19,7 @@ For some time past vessels had been met by "an enormous thing", a long object, s
 
 ##About Jules Verne
 
-Jules Gabriel Verne (February 8, 1828 - March 24, 1905) was a French author who pioneered the science fiction genre. Verne wrote about [space] (http://en.wikipedia.org/wiki/Outer_space), [air] (http://en.wikipedia.org/wiki/Aircraft), and [underwater] (http://en.wikipedia.org/wiki/Submarine) travel before air travel and practical submarines were invented, and before practical means of space travel had been devised.
+Jules Gabriel Verne (February 8, 1828 - March 24, 1905) was a French author who pioneered the science fiction genre. Verne wrote about [space] (http://en.wikipedia.org/wiki/Outer_space), [air] (http://en.wikipedia.org/wiki/Aircraft), and [underwater] (http://en.wikipedia.org/wiki/Submarine) travel before air travel and practical submarines were invented, and before practical means of space travel had been devised.
 
 -[Wikipedia Entry] (http://en.wikipedia.org/wiki/Jules_Verne)
 
